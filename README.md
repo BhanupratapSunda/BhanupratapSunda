@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BhanupratapSunda
-- 👀 I’m interested in Data Science and Analysis.
-- 🌱 I’m currently learning Python,R, AI, Machine Learning.
-- 💞️ I’m looking to collaborate on any project regarding Data Science and include Data Analysis.
-- 📫 How to reach me : You can reach me on my Instagram or Linkdin or mail me.
+- 👀 I’m interested in Data Engineering.
+- 🌱 I’m currently learning Python, Databricks, Spark, AI.
+- 💞️ I’m looking to collaborate on any project regarding Data engineering.
+- 📫 How to reach me: You can reach me on my Instagram, LinkedIn, or mail me.
 - Instagram Id: @BhanuPratapSunda
 - Lindin Profile: www.linkedin.com/in/bhanu-pratap-sunda
 - Gmail: Bhanupratapsunda@gmail.com
